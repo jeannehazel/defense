@@ -6,10 +6,7 @@ body{
     background-size:cover;
     
 }
- body .learning{
-    background-image: url('images.jpg');
-}
-
+ 
 nav a{
 
     gap: 10%;
